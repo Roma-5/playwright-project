@@ -47,7 +47,7 @@ The framework is designed to be maintainable, scalable, and suitable for real-wo
 ## 📥 Installation
 
 1. Clone the repository  
-   git clone https://github.com/Roma-5/playwright-project.git
+   git clone https://github.com/roma-5/playwright-project.git
 
 2. Navigate to the project directory  
    cd playwright-project
@@ -66,7 +66,7 @@ pytest --alluredir=allure-results
 2. Generate the Allure report:  
 allure generate allure-results -o allure-report --clean
 
-Allure Report URL: https://Roma-5.github.io/playwright-project/
+Allure Report URL: https://roma-5.github.io/playwright-project/
 
 
 
